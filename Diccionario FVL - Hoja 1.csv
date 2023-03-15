@@ -1,0 +1,5 @@
+Nombre,Fecha,Hora,Episodio,Clase Episodio,Paciente,Apellido1,Apellido2,Nombre1,Nombre2
+Tipo variable,Fecha,Hora,Int Num,Int Num,Int Num,Texto,Texto,Texto,Texto
+Descripcion,Fecha programada para la cita,Hora programada para la cita,Historia clinica del paciente,N/A,Número con el que se identifica al paciente,Primer apellido del paciente,Segundo apellido del paciente,Primer nombre del paciente,Segundo nombre del paciente
+Formato,dd/mm/aaaa,hh/mm/ss/x.m,#######(9999999),#(2),#######(9999999),N/A,N/A,N/A,N/A
+Unidades,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
